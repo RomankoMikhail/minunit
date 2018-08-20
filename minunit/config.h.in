@@ -1,0 +1,2 @@
+#cmakedefine MAX_TESTS @MAX_TESTS@
+
